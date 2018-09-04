@@ -66,9 +66,8 @@
   "main": "lib/index.js",
   "name": "@mulesoft/react-date-picker2",
   "peerDependencies": {
-    "react": ">=0.14.0 || >=15.0.0",
-    "react-dom": ">=0.14.0 || >=15.0.0",
-    "moment": ">=2.18.1"
+    "react": ">=0.14.0 || >=15.0.0 || >=16.0.0",
+    "react-dom": ">=0.14.0 || >=15.0.0 || >=16.0.0"
   },
   "repository": {
     "type": "git",
@@ -82,5 +81,5 @@
     "prepare": "npm run build",
     "styles": "theme-builder"
   },
-  "version": "6.3.1"
+  "version": "6.3.2"
 }
